@@ -1,0 +1,166 @@
+body {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f7f7f7;
+    background-color: #858585;
+    font-weight: 10px;
+}
+
+header {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #0e0e0e;
+    font-weight: 5px;
+    background-color: #fffcfc;
+}
+
+#katio_header {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+#katio_nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav,
+ul,
+a {
+    display: inline;
+    display: flex;
+    margin: 25px;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    text-decoration-line: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#index_img {
+    display: flex;
+    align-items: left;
+    justify-content: center;
+}
+
+footer {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f7f7f7;
+    background-color: #858585;
+    text-align: left;
+}
+
+.contenedor {
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+
+/* TIPOGRAFIAS */
+
+p {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p span {
+    background-color: black;
+    color: white;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    text-align: center;
+    border-radius: 6px;
+}
+
+h1 {
+    font-size: 2.0rem;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    display: inline;
+    display: flex;
+    background-color: #858585;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    font-size: 2.0rem;
+    color: #020202;
+}
+
+h3 {
+    font-size: 1.8rem;
+}
+
+p3 {}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    text-align: center
+}
+
+
+/* HEADER */
+
+.h1 {}
+
+.header span {
+    font-weight: ;
+}
+
+.wave {
+    margin-bottom: -2.8rem;
+}
+
+
+/* CONTENIDO PRINCIPAL */
+
+.main {
+    background-color: #ffffff;
+}
+
+
+/* FOOTER */
+
+.footer .redes {
+    text-align: center;
+}
+
+.footer .redes a {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-decoration: none;
+}
+
+.footer .texto {
+    text-align: center;
+}
+
+
+/* BOTONES */
+
+.boton {
+    background-color: #523a34;
+    color: #ffffff;
+    padding: 1rem 3rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5rem;
+    width: 90%;
+    text-align: center;
+    border: none;
+}
