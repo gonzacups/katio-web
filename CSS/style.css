@@ -13,37 +13,33 @@ body header {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-decoration-line: none;
   display: flex;
-  display: inline;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 body header nav {
   background-color: white;
-  margin: 15px;
+  margin: 5px;
   text-decoration-line: none;
   display: flex;
-  display: inline;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 body header nav ul {
+  list-style-type: none;
   background-color: white;
   text-decoration-line: none;
   display: flex;
-  display: inline;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 body header nav ul a {
   text-align: center;
   text-decoration-line: none;
   display: flex;
-  display: inline;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   background-color: white;
-  margin: 20px;
-  justify-content: center;
+  margin-right: 200px;
 }
 body main {
   background-color: #858585;
