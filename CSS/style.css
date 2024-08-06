@@ -1,0 +1,103 @@
+body {
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #f7f7f7;
+  font-weight: 10px;
+  background-color: white;
+}
+body header {
+  font-size: 30px;
+  background-color: #fffcfc;
+  color: #0e0e0e;
+  font-weight: 5px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration-line: none;
+  display: flex;
+  display: inline;
+  justify-content: center;
+  align-items: center;
+}
+body header nav {
+  background-color: white;
+  margin: 15px;
+  text-decoration-line: none;
+  display: flex;
+  display: inline;
+  justify-content: center;
+  align-items: center;
+}
+body header nav ul {
+  background-color: white;
+  text-decoration-line: none;
+  display: flex;
+  display: inline;
+  justify-content: center;
+  align-items: center;
+}
+body header nav ul a {
+  text-align: center;
+  text-decoration-line: none;
+  display: flex;
+  display: inline;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  margin: 20px;
+  justify-content: center;
+}
+body main {
+  background-color: #858585;
+  text-align: center;
+}
+body main h1 {
+  font-size: 2rem;
+  color: rgb(0, 0, 0);
+  font-weight: bolder;
+  display: inline;
+  display: flex;
+  background-color: #858585;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+body main h1 h3 {
+  font-size: 1.8rem;
+  text-align: center;
+}
+body main h1 h3 p {
+  font-size: 1.5rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+body footer {
+  background-color: #858585;
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #f7f7f7;
+  text-align: center;
+  font-size: 30px;
+  color: #0e0e0e;
+  font-weight: 5px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration-line: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body footer p {
+  font-size: 1.5rem;
+}
+body footer p span {
+  background-color: black;
+  color: white;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  text-align: center;
+  border-radius: 6px;
+}
+
+/*# sourceMappingURL=style.css.map */
