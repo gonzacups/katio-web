@@ -85,12 +85,15 @@ body {
             span {
                 background-color: black;
                 color: white;
-                padding-right: 20px;
+                padding-right: 10px;
                 padding-top: 5px;
                 padding-bottom: 10px;
-                padding-left: 20px;
+                padding-left: 10px;
                 text-align: center;
                 border-radius: 6px;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
             }
         }
     }
